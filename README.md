@@ -1,6 +1,11 @@
 ## React Netflix Clone
 
-[Online Demo](https://www.baidu.com)
+[Online Demo](https://netflix-clone-b5502.firebaseapp.com/)
+
+**Test Account**:
+
+- username: test@test.com
+- password: 123456
 
 ### Stack
 
